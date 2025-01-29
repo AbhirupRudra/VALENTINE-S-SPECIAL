@@ -95,8 +95,6 @@ body {
   justify-content: center;
   background-size: 1000px;
   background-position: center center;
-  margin: 0;
   font-family: 'Caveat', serif;
-  overflow: hidden;
   background: #708dff;
 }
